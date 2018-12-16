@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Dishes>
+  <Dish>
+    <Name>培根打狗棒</Name>
+    <Category>西餐</Category>
+    <Comment>大肉棒</Comment>
+    <Score>7</Score>
+  </Dish>
+  <Dish>
+    <Name>番茄西皮</Name>
+    <Category>西餐</Category>
+    <Comment>披萨</Comment>
+    <Score>4</Score>
+  </Dish>
+  <Dish>
+    <Name>坑头肉</Name>
+    <Category>中式</Category>
+    <Comment>辣翻天</Comment>
+    <Score>7.5</Score>
+  </Dish>
+  <Dish>
+    <Name>棒棒娃</Name>
+    <Category>粤菜</Category>
+    <Comment>牛肉</Comment>
+    <Score>6</Score>
+  </Dish>
+</Dishes>

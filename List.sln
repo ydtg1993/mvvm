@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.106
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "List", "List\List.csproj", "{5A151296-E984-46E1-9996-396A8C1C3F2C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5A151296-E984-46E1-9996-396A8C1C3F2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A151296-E984-46E1-9996-396A8C1C3F2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A151296-E984-46E1-9996-396A8C1C3F2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A151296-E984-46E1-9996-396A8C1C3F2C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		EnterpriseLibraryConfigurationToolBinariesPath = packages\Unity.2.1.505.0\lib\NET35
+		SolutionGuid = {0E279ED5-EE7A-4D33-AEB8-F9A28B16F6DD}
+	EndGlobalSection
+EndGlobal
